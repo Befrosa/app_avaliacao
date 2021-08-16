@@ -1,8 +1,8 @@
 # app_avaliacao
 
 O projeto consiste em dois frontends (react web e react native) e um backend java 
-em spring boot que deverão ser entregues para a NEKI e deverão ser construídos a partir do
-script de banco de dados do repositório
+em spring boot cujos fontes deverão ser disponibilizados para a NEKI em repositório público na própria conta do github e deverão ser construídos a partir do
+script de banco de dados neste repositório.
 	
 1) SPLASH SCREEN (apenas mobile)
 2) TELA DE LOGIN 																					
