@@ -1,4 +1,4 @@
-# app_avaliacao
+# Avaliação NEKI
 
 O projeto consiste em dois frontends (react web e react native) e um backend java 
 em spring boot cujos fontes deverão ser disponibilizados para a NEKI em repositório público na própria conta do github e deverão ser construídos a partir do
