@@ -9,7 +9,7 @@ script de banco de dados do repositório
 3)	logar 																					    
 4)	ver senha  																					
 5)	cadastrar-se (criar tela de cadastro de usuário) - sem necessidade de confirmação 			
-6) HOME COM LISTAGEM DE SKILLS associados ao USUÁRIO APARECENNDO A  IMAGEM NA LISTAGEM 			
+6) HOME COM LISTAGEM DE SKILLS associados ao USUÁRIO APARECENDO A  IMAGEM NA LISTAGEM 			
    MANUTENÇÃO DE SKILLS DO USUÁRIO 
 7)	- ASSOCIAR skill  																			
 8)	- editar associação  																		
